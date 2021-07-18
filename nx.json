@@ -27,6 +27,9 @@
     ]
   },
   "projects": {
+    "contacts": {
+      "tags": []
+    },
     "dashboard": {
       "tags": []
     },
